@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou Mininix-San
 
-> *"A Inteligência Artificial é a nova eletricidade que está transformando todas as indústrias"* - Andrew Ng
+> *"A tecnologia é melhor quando ela aproxima as pessoas"* - Matt Mullenweg
 
 ## 🚀 Sobre mim
 
-Entusiasta e especialista em Inteligência Artificial, apaixonado por transformar ideias complexas em soluções digitais eficientes e inovadoras. Minha jornada é focada em explorar as fronteiras da tecnologia e criar soluções que fazem a diferença.
+Entusiasta de tecnologia e automação, focado em implementar e integrar soluções de Inteligência Artificial em projetos práticos. Minha paixão está em utilizar modelos open source e ferramentas modernas para criar aplicações úteis e eficientes, tornando a tecnologia mais acessível e funcional.
 
 ## 💻 Tech Stack
 
@@ -12,37 +12,36 @@ Minha caixa de ferramentas tecnológicas inclui:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## 🌊 Áreas de Interesse e Expertise
 
-- 🤖 **Inteligência Artificial & Machine Learning**
-  - Desenvolvimento de modelos preditivos
-  - Processamento de Linguagem Natural (NLP)
-  - Computer Vision
-  - Redes Neurais
+- 🤖 **Integração de IA & Automação**
+  - Implementação de modelos de linguagem (LLMs)
+  - Configuração e otimização de modelos open source
+  - Automação de processos com IA
+  - Criação de interfaces para modelos de IA
 
-- 🔬 **Data Science**
-  - Análise exploratória de dados
-  - Visualização de dados
-  - Feature Engineering
-  - Modelagem estatística
+- 🔧 **Desenvolvimento e DevOps**
+  - Containerização com Docker
+  - Automação com GitHub Actions
+  - APIs e microsserviços
+  - Deploy e manutenção de aplicações
 
 ## 📚 Quando não estou codando...
 
 Provavelmente estou:
 
-- 📖 Lendo sobre os últimos avanços em IA
-- 🎯 Participando de competições de Machine Learning
-- 🤝 Contribuindo para projetos open source
-- 🌱 Aprendendo novas tecnologias
+- 🔍 Explorando novos modelos de IA e ferramentas
+- 🛠️ Testando diferentes configurações e otimizações
+- 🌱 Aprendendo sobre novas integrações e frameworks
+- 🤝 Participando de comunidades tech
 
 ## 📊 GitHub Stats
 
@@ -51,9 +50,9 @@ Provavelmente estou:
 
 ## 🏆 Principais Conquistas
 
-- 🎓 Especialização em Inteligência Artificial
-- 💡 Desenvolvimento de projetos inovadores em IA
-- 🌟 Contribuições para a comunidade de tecnologia
+- 💡 Implementação de soluções práticas com IA
+- 🔧 Otimização e configuração de modelos open source
+- 🌟 Desenvolvimento de projetos de automação
 
 ## 🌐 Vamos conectar?
 
@@ -70,4 +69,4 @@ Provavelmente estou:
 </div>
 
 ---
-> *"O verdadeiro progresso é aquele que coloca a tecnologia ao alcance de todos"* — Henry Ford
+> *"A simplicidade é o último grau de sofisticação"* — Leonardo da Vinci
